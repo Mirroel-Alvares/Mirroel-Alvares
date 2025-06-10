@@ -2,7 +2,7 @@
 ------------------------------
 
 * 🎓 Окончил программу «Python-разработчик» онлайн-школы программирования «Хекслет» | [сертификат](https://github.com/Mirroel-Alvares/Mirroel-Alvares/raw/main/certificate_hexlet.png) | [профиль](https://ru.hexlet.io/u/mirroel)
-* 💼 [CV и портфолио](https://github.com/Mirroel-Alvares/Mirroel-Alvares/raw/main/cv.docx)
+* 💼 [CV и портфолио](https://github.com/Mirroel-Alvares/Mirroel-Alvares/blop/main/cv.docx)
 * ✉️ Контакты: [телеграм](@Mirroel_Alvares)  | [почта](aleksejkuznecov07096@gmail.com)
 
 ### Стек
